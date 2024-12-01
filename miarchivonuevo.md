@@ -6,4 +6,5 @@ Este archivo está siendo creado solo con propósitos de prueba.
 - Paso 3
 
 [Enlace a Github](https://github.com)
-![Imagen](
+
+![Imagen](https://github.com/valentinbookpub/mirepositorio1/blob/main/imagenes/Handz%20Valentin.jpg)
